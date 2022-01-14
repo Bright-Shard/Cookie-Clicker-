@@ -6,7 +6,7 @@
 // @author       BrightShard
 // @match        https://orteil.dashnet.org/cookieclicker/
 // @icon         https://orteil.dashnet.org/cookieclicker/img/favicon.ico
-// @downloadURL  https://brightshard.dev/downloads/Cookie_Clicker++.user.js
+// @downloadURL  https://github.com/Bright-Shard/Cookie-Clicker-PlusPlus/raw/master/CookieClicker%2B%2B.user.js
 // @supportURL   https://brightshard.dev/projects/ccpp
 // @homepageURL  https://brightshard.dev/projects/ccpp
 // ==/UserScript==
